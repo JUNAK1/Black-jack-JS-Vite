@@ -1,0 +1,4 @@
+import { defineConfig } from 'vite';
+export default defineConfig({
+    base: '/Black-jack-JS-Vite/',
+});
